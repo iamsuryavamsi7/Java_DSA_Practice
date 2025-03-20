@@ -55,7 +55,7 @@ public class App{
 
     }
 
-    // Linear Search Function with our traditional For Loop
+    // Linear Search Method with our traditional For Loop
     public static int linearSearch(int[] nums, int target){
 
         sb.append("LINEAR");
@@ -78,7 +78,7 @@ public class App{
 
     }
 
-    // Binary Search Function from Collections class
+    // Binary Search Method from Collections class or by our own implementation
     public static int binarySearch(int[] nums, int target){
 
         sb.append("BINARY");
